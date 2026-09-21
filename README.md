@@ -147,3 +147,8 @@ Business Insights
 Tableau Visualization
         ↓
 Interactive Dashboard
+
+---
+🏁 Conclusion
+This project demonstrates how Python, SQL, and Tableau can be used together to transform raw e-commerce data into meaningful business insights. Python was used for data cleaning and analysis, SQL for extracting and analyzing business information, and Tableau for creating an interactive dashboard.
+Overall, the project provides a clear view of sales performance, customer behavior, product categories, regional trends, discounts, and delivery performance, helping convert data into useful insights for better business decision-making.
