@@ -129,6 +129,10 @@ The dashboard includes interactive filters such as:
 
 These filters allow users to explore the data based on different selections.
 
+**dashboard:**
+<img width="1654" height="841" alt="Ecommerce sales analytics dashboard" src="https://github.com/user-attachments/assets/43d0cd96-012d-4061-ae02-50c0418f2473" />
+
+
 ---
 
 ## 🔄 Project Workflow
